@@ -39,7 +39,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define DEBOUNCE    5
 
 /* LED indicators */
-#define LED_CAPS_LOCK_PIN B15
+#define LED_CAPS_LOCK_PIN B5
 #define LED_KANA_PIN B8
 #define LED_PIN_ON_STATE 0
 
